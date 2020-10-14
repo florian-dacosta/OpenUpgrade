@@ -33,6 +33,7 @@ renamed_modules = {
     'stock_pack_operation_auto_fill': 'stock_move_line_auto_fill',
     # OCA/web
     'web_advanced_filters': 'web_advanced_filter',
+    'mooncard_base': 'base_newgen_payment_card',
 }
 
 merged_modules = {
@@ -87,6 +88,7 @@ merged_modules = {
     'web_sheet_full_width': 'web_responsive',
     # OCA/website
     'website_form_metadata': 'website_form',
+    'mooncard_invoice': 'base_newgen_payment_card',
 }
 
 # only used here for openupgrade_records analysis:
