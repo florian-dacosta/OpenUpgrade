@@ -34,6 +34,13 @@ renamed_modules = {
     # OCA/web
     'web_advanced_filters': 'web_advanced_filter',
     'mooncard_base': 'base_newgen_payment_card',
+    'base_zugferd': 'base_facturx',
+    'l10n_fr_account_invoice_factur-x': 'l10n_fr_account_invoice_facturx',
+    'account_invoice_import_factur-x': 'account_invoice_import_facturx',
+    'l10n_fr_account_invoice_import_factur-x': 'l10n_fr_account_invoice_import_facturx',
+    'account_invoice_factur-x_py3o': 'account_invoice_facturx_py3o',
+    'account_invoice_factur-x': 'account_invoice_facturx',
+    'l10n_fr_chorus_factur-x': 'l10n_fr_chorus_facturx',
 }
 
 merged_modules = {
